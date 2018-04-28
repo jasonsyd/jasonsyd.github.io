@@ -1,0 +1,23 @@
+.container {
+  background-color: yellow;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+}
+.rectangle {
+  height: 50px;
+  width: 100px;
+  background-color: white;
+}
+
+.red{
+  background-color: red;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.green{
+  background-color: green;
+}

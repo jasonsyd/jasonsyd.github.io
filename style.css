@@ -1,0 +1,32 @@
+/* style on tag*/
+  /* h1 {
+    color: blue;
+  } */
+/* style using class */
+.blue-text{
+  color: blue;
+}
+
+.height300{
+  height: 300px;
+}
+
+.background-red{
+  background-color: red;
+}
+
+.opacity-0.3{
+  opacity:0.3;
+}
+
+.font-20{
+  font-size: 20px;
+}
+
+.list-font{
+  style="font-family: Helvetic, times;
+}
+/* style using id */
+#special-p{
+  color: purple;
+}
